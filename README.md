@@ -1,3 +1,3 @@
 # JavaScript-Notes
 
-Anotações sobre o curso de javascript
+Anotações feitas durante curso de JavaScript, para fixar conteúdo.
